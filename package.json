@@ -1,0 +1,24 @@
+{
+  "name": "angular-wistia-upload",
+  "version": "1.0.0",
+  "description": "An Angular Component for uploading videos to Wistia",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heydemoura/angular-wistia-upload.git"
+  },
+  "keywords": [
+    "anglar",
+    "component",
+    "wistia"
+  ],
+  "author": "Heyde Moura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heydemoura/angular-wistia-upload/issues"
+  },
+  "homepage": "https://github.com/heydemoura/angular-wistia-upload#readme"
+}
